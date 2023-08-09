@@ -23,7 +23,7 @@
     "dependencies": {
         "clean-css-cli": "4.2.1",
         "eslint": "5.1.0",
-        "eslint-plugin-jest": "22.1.2",
+        "eslint-plugin-jest": "22.21.0",
         "node-sass": "4.9.4",
         "stylelint": "9.3.0",
         "uglify-js": "2.8.29"
