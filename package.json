@@ -25,7 +25,7 @@
         "eslint": "5.1.0",
         "eslint-plugin-jest": "22.1.2",
         "node-sass": "4.9.4",
-        "stylelint": "9.3.0",
+        "stylelint": "14.0.0",
         "uglify-js": "2.8.29"
     },
     "devDependencies": {
