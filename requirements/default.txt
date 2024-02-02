@@ -16,7 +16,7 @@ bleach==2.1.4 \
 # Code: https://github.com/celery/celery
 # Changes: http://docs.celeryproject.org/en/latest/history/index.html
 # Docs: http://docs.celeryproject.org/en/latest/index.html
-celery==3.1.25 \
+celery==4.4.0rc5 \
     --hash=sha256:1954a224805f3835e5b6f5998ec9fe51db3413cc49e59fc720d314c7913427cf \
     --hash=sha256:6ced63033bc663e60c992564954dbb5c84c43899f7f1a04b739957350f6b55f3
 
