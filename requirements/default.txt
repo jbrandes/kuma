@@ -315,7 +315,7 @@ requests-mock==0.7.0 \
     --hash=sha256:e61056cdb809fcc6ed47771b74054fe3ab4c3659d7f66c32a5256e8cf013e0af
 
 # Parse SQL statements, needed for RunSQL migrations
-sqlparse==0.2.3 \
+sqlparse==0.5.0 \
     --hash=sha256:740a023ef38ce11bbb99a9d143856f56ef4ec5b0d7a853f58c02c65b035114c4 \
     --hash=sha256:becd7cc7cebbdf311de8ceedfcf2bd2403297024418801947f8c953025beeff8
 
