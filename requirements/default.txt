@@ -251,7 +251,7 @@ jsonpickle==0.9.2 \
     --hash=sha256:09bf1978d1d004943c2a359009fb5d09b67277bbaaf9aed281856b3c063979e7
 
 # Fix gunicorn worker timeout problems with default sync worker
-meinheld==0.6.1 \
+meinheld==1.0.2 \
     --hash=sha256:40d9dbce0165b2d9142f364d26fd6d59d3682f89d0dfe2117717a8ddad1f4133 \
     --hash=sha256:293eff4983b7fcbd9134b47706b22189883fe354993bd10163c65869d141e565
 
