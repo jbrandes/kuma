@@ -242,7 +242,7 @@ gunicorn==19.7.1 \
 # Code: https://github.com/pallets/jinja
 # Changes: http://jinja.pocoo.org/docs/2.10/changelog/
 # Docs: http://jinja.pocoo.org/docs/2.10/
-Jinja2==2.10 \
+Jinja2==3.1.5 \
     --hash=sha256:74c935a1b8bb9a3947c50a54766a969d4846290e1e788ea44c1392163723c3bd \
     --hash=sha256:f84be1bb0040caca4cea721fcbbbbd61f9be9464ca236387158b0feea01914a4
 
