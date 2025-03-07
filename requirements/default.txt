@@ -33,7 +33,7 @@ dennis==0.9 \
     --hash=sha256:f6487392ac91800c5f0684a99b404b7fd0f72ceb48faeb5a0ce4e2c24fb62d3f
 
 # Web framework for Python projects of a certain age
-Django==1.11.16 \
+Django==4.2.20 \
     --hash=sha256:29268cc47816a44f27308e60f71da635f549c47d8a1d003b28de55141df75791 \
     --hash=sha256:37f5876c1fbfd66085001f4c06fa0bf96ef05442c53daf8d4294b6f29e7fa6b8
 
@@ -242,7 +242,7 @@ gunicorn==19.7.1 \
 # Code: https://github.com/pallets/jinja
 # Changes: http://jinja.pocoo.org/docs/2.10/changelog/
 # Docs: http://jinja.pocoo.org/docs/2.10/
-Jinja2==2.10 \
+Jinja2==3.1.6 \
     --hash=sha256:74c935a1b8bb9a3947c50a54766a969d4846290e1e788ea44c1392163723c3bd \
     --hash=sha256:f84be1bb0040caca4cea721fcbbbbd61f9be9464ca236387158b0feea01914a4
 
