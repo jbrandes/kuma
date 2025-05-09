@@ -33,7 +33,7 @@ dennis==0.9 \
     --hash=sha256:f6487392ac91800c5f0684a99b404b7fd0f72ceb48faeb5a0ce4e2c24fb62d3f
 
 # Web framework for Python projects of a certain age
-Django==1.11.16 \
+Django==4.2.21 \
     --hash=sha256:29268cc47816a44f27308e60f71da635f549c47d8a1d003b28de55141df75791 \
     --hash=sha256:37f5876c1fbfd66085001f4c06fa0bf96ef05442c53daf8d4294b6f29e7fa6b8
 
@@ -340,3 +340,4 @@ wheel==0.29.0 \
 whitenoise==3.3.1 \
     --hash=sha256:15f43b2e701821b95c9016cf469d29e2a546cb1c7dead584ba82c36f843995cf \
     --hash=sha256:9d81515f2b5b27051910996e1e860b1332e354d9e7bcf30c98f21dcb6713e0dd
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
